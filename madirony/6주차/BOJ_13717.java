@@ -1,3 +1,8 @@
+/*
+  link : https://www.acmicpc.net/problem/13717
+  tier : S5
+  type : implementation
+*/
 import java.util.*;
 import java.io.*;
 
