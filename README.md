@@ -2,6 +2,8 @@
 `2025-12-01 ~ 2026-01-12 (6w)`
 <br />
 <br />
+<img width="500" height="195" alt="image" src="https://github.com/user-attachments/assets/eaad5e97-3af3-427f-841a-bc5c611d2791" />
+
 
 ## ✅ 참여 방법
 1. Repository `fork`
